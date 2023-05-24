@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "51628258133",
+    "project_id": "testfirebase-4be2e",
+    "storage_bucket": "testfirebase-4be2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51628258133:android:d076a1b9a7d823dad6b5dc",
+        "android_client_info": {
+          "package_name": "com.example.testfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51628258133-47r25722231qfv0hqjpu9tgfp7rbv987.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnOwRz6aOiksa1RRZu7OgmU9s7mTusJ18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51628258133-47r25722231qfv0hqjpu9tgfp7rbv987.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51628258133:android:fe5819698a18118dd6b5dc",
+        "android_client_info": {
+          "package_name": "de.eduardknaub.movlix.movlix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51628258133-47r25722231qfv0hqjpu9tgfp7rbv987.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnOwRz6aOiksa1RRZu7OgmU9s7mTusJ18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51628258133-47r25722231qfv0hqjpu9tgfp7rbv987.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
